@@ -14,7 +14,7 @@ const config = {
         dest: '/css'
     },
     html: {
-        src: '/index.html'
+        src: '../index.html'
     }
 };
 
